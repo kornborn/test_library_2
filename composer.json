@@ -12,5 +12,13 @@
             "email": "a.khvorostinin@corp.mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "a.khvorostinin/test_library_3": "^1"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:kornborn/test_library_3.git"
+        }
+    ]
 }
